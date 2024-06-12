@@ -1,0 +1,76 @@
+.main{
+    height: 100vh;
+    background-color: rgb(206, 248, 248);
+}
+.presentation{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.work{
+    display: flex;
+    width: 100%;
+}
+.left-side{
+    width: 31%;
+    height: 100%;
+    margin-right: 20px;
+}
+.right-side{
+    width: 100%;
+    height: 100%;
+}
+
+.matListItemTitle{
+    color: rgb(122, 122, 198);
+}
+.matListItemLine{
+    padding-left: 10px;
+    color: rgb(34, 30, 30);
+}
+
+
+
+.mat-icon {
+    vertical-align: middle;
+    margin-right: 10px;
+    color: rgb(64, 127, 64);
+}
+
+.icon-contact {
+    transform: scale(0.8);
+    margin-left: 5px;
+ }
+
+ .text-contact{
+    display: flex;
+    align-items:center;
+ }
+
+ .icon-display {
+    transform: scale(1.2);
+    margin-left: 5px;
+ }
+
+ .card-header-text {
+    font-size: x-large;
+    font-weight: 500;
+ }
+
+ .center-in-mat-card{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .w-contact-33{
+    width: 33%;
+  }
+
+  .w-contact-34{
+    width: 34%;
+  }
+
+  .certification{
+    margin: 10px;
+  }
